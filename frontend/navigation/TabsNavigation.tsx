@@ -57,6 +57,8 @@ const TabsNavigator = () => {
                             borderRadius: 20,
                             padding: 8,
                             paddingHorizontal: 12,
+                            height:40,
+                            width: 100,
                         }}>
                             <AntDesign 
                                 name="home" 
@@ -85,6 +87,8 @@ const TabsNavigator = () => {
                             borderRadius: 20,
                             padding: 8,
                             paddingHorizontal: 12,
+                            height:40,
+                            width: 120,
                         }}>
                             <FontAwesome 
                                 name="calendar" 
@@ -113,6 +117,8 @@ const TabsNavigator = () => {
                             borderRadius: 20,
                             padding: 8,
                             paddingHorizontal: 12,
+                            height:40,
+                            width: 100,
                         }}>
                             <MaterialCommunityIcons 
                                 name="lightbulb-on-outline" 
